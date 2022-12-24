@@ -1,4 +1,4 @@
-# Utube Clone
+# Utube App
 - Developed the project using React Js and Youtube Rapid API
 - The application fetches details from YouTube videos.
 - Implemented the Search Functionality.
